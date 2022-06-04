@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Malinowsky
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Dart/Flutter
-- 💞️ I’m looking a job to be better in right now in Flutter, in future we will see what i can do more 
+- 👀 I’m interested in Flutter and Java
+- 🌱 I’m currently learning Dart/Flutter and Java
+- 💞️ I’m looking my self, to show everyone that I'm a good worker and, above all, a human being.
 - 📫 How to reach me ... to mail: arturrmalinowski@gmial.com
 
 <!---
